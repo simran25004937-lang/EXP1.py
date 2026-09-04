@@ -16,6 +16,11 @@ Addition: 17
 Subtraction: 7
 Multiplication: 60
 Division: 2.4
+Floor Division: 2
+Modulus: 2
+Exponentiation: 248832
+Equal to: False
+Not Equal to: True
 
 Result:
 Thus, the Python program was executed successfully and the desired output was obtained.
