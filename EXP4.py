@@ -21,7 +21,7 @@ Remove all elements using clear().
 Display all the results.
 Stop.
 
-
+Code:
   
 numbers = [60, 30, 50, 20, 40, 10]
 
