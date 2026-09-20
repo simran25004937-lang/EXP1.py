@@ -1,9 +1,7 @@
 Aim
-
 To write a Python program to demonstrate various list and related functions in Python.
 
-Algorithm
-  
+Algorithm  
 Start
 Create and initialize a list of numbers.
 Find the length of the list using len().
@@ -21,8 +19,7 @@ Remove all elements using clear().
 Display all the results.
 Stop.
 
-Code:
-  
+Code: 
 numbers = [60, 30, 50, 20, 40, 10]
 
 print("Original List:", numbers)
@@ -75,7 +72,6 @@ print("After clear():", numbers)
 
 
 Output:
-
 Original List: [60, 30, 50, 20, 40, 10]
 Length of the list: 6
 After append(90): [60, 30, 50, 20, 40, 10, 90]
