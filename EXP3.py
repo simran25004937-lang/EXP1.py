@@ -32,3 +32,16 @@ print("Concatenation:", s + "program")
 # Remove spaces
 s2 = "  Welcome to the python world  "
 print("Trim:", s2.strip())
+
+Output:
+Original String: Welcome to the python world
+Length: 28
+Uppercase: WELCOME TO THE PYTHON WORLD
+Lowercase: welcome to the python world
+Character at index 6: m
+Position of python: 15
+Slice: to the python world
+Replace: Welcome to the world world
+Contains python: True
+Concatenation: Welcome to the python worldprogram
+Trim: Welcome to the python world
